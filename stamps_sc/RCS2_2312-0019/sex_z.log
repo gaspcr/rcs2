@@ -1,0 +1,300 @@
+[1M> 
+[1A----- SExtractor 2.25.0 started on 2025-06-14 at 18:53:17 with 1 thread
+
+[1M> Setting catalog parameters
+[1A[1M> Reading detection filter
+[1A[1M> Initializing Neural Network
+[1A[1M> Reading Neural Network Weights
+[1A[1M> Initializing check-image(s)
+[1A[1M> Initializing catalog
+[1A[1M> Looking for 2329H3_z_07.fits
+[1A----- Measuring from: 2329H3_z_07.fits
+      "CDE2329H3" / no ext. header / 2112x4644 / 16 bits (integers)
+Detection+Measurement image: [1M> Setting up background maps
+[1A[1M> Setting up background map at line:   64
+[1A[1M> Setting up background map at line:  128
+[1A[1M> Setting up background map at line:  192
+[1A[1M> Setting up background map at line:  256
+[1A[1M> Setting up background map at line:  320
+[1A[1M> Setting up background map at line:  384
+[1A[1M> Setting up background map at line:  448
+[1A[1M> Setting up background map at line:  512
+[1A[1M> Setting up background map at line:  576
+[1A[1M> Setting up background map at line:  640
+[1A[1M> Setting up background map at line:  704
+[1A[1M> Setting up background map at line:  768
+[1A[1M> Setting up background map at line:  832
+[1A[1M> Setting up background map at line:  896
+[1A[1M> Setting up background map at line:  960
+[1A[1M> Setting up background map at line: 1024
+[1A[1M> Setting up background map at line: 1088
+[1A[1M> Setting up background map at line: 1152
+[1A[1M> Setting up background map at line: 1216
+[1A[1M> Setting up background map at line: 1280
+[1A[1M> Setting up background map at line: 1344
+[1A[1M> Setting up background map at line: 1408
+[1A[1M> Setting up background map at line: 1472
+[1A[1M> Setting up background map at line: 1536
+[1A[1M> Setting up background map at line: 1600
+[1A[1M> Setting up background map at line: 1664
+[1A[1M> Setting up background map at line: 1728
+[1A[1M> Setting up background map at line: 1792
+[1A[1M> Setting up background map at line: 1856
+[1A[1M> Setting up background map at line: 1920
+[1A[1M> Setting up background map at line: 1984
+[1A[1M> Setting up background map at line: 2048
+[1A[1M> Setting up background map at line: 2112
+[1A[1M> Setting up background map at line: 2176
+[1A[1M> Setting up background map at line: 2240
+[1A[1M> Setting up background map at line: 2304
+[1A[1M> Setting up background map at line: 2368
+[1A[1M> Setting up background map at line: 2432
+[1A[1M> Setting up background map at line: 2496
+[1A[1M> Setting up background map at line: 2560
+[1A[1M> Setting up background map at line: 2624
+[1A[1M> Setting up background map at line: 2688
+[1A[1M> Setting up background map at line: 2752
+[1A[1M> Setting up background map at line: 2816
+[1A[1M> Setting up background map at line: 2880
+[1A[1M> Setting up background map at line: 2944
+[1A[1M> Setting up background map at line: 3008
+[1A[1M> Setting up background map at line: 3072
+[1A[1M> Setting up background map at line: 3136
+[1A[1M> Setting up background map at line: 3200
+[1A[1M> Setting up background map at line: 3264
+[1A[1M> Setting up background map at line: 3328
+[1A[1M> Setting up background map at line: 3392
+[1A[1M> Setting up background map at line: 3456
+[1A[1M> Setting up background map at line: 3520
+[1A[1M> Setting up background map at line: 3584
+[1A[1M> Setting up background map at line: 3648
+[1A[1M> Setting up background map at line: 3712
+[1A[1M> Setting up background map at line: 3776
+[1A[1M> Setting up background map at line: 3840
+[1A[1M> Setting up background map at line: 3904
+[1A[1M> Setting up background map at line: 3968
+[1A[1M> Setting up background map at line: 4032
+[1A[1M> Setting up background map at line: 4096
+[1A[1M> Setting up background map at line: 4160
+[1A[1M> Setting up background map at line: 4224
+[1A[1M> Setting up background map at line: 4288
+[1A[1M> Setting up background map at line: 4352
+[1A[1M> Setting up background map at line: 4416
+[1A[1M> Setting up background map at line: 4480
+[1A[1M> Setting up background map at line: 4544
+[1A[1M> Setting up background map at line: 4608
+[1A[1M> Filtering background map(s)
+[1A[1M> Computing background d-map
+[1A[1M> Computing background-noise d-map
+[1A(M+D) Background: 1464.97    RMS: 32.2691    / Threshold: 48.4037    
+[1M> Scanning image
+[1A[1M> Line:   25  Objects:        4 detected /        0 sextracted
+[1A[1M> Line:   50  Objects:       13 detected /        0 sextracted
+[1A[1M> Line:   75  Objects:       29 detected /        0 sextracted
+[1A[1M> Line:  100  Objects:       41 detected /        0 sextracted
+[1A[1M> Line:  125  Objects:       49 detected /        0 sextracted
+[1A[1M> Line:  150  Objects:       59 detected /        0 sextracted
+[1A[1M> Line:  175  Objects:       69 detected /        0 sextracted
+[1A[1M> Line:  200  Objects:       79 detected /        0 sextracted
+[1A[1M> Line:  225  Objects:       93 detected /        0 sextracted
+[1A[1M> Line:  250  Objects:      104 detected /        0 sextracted
+[1A[1M> Line:  275  Objects:      118 detected /        0 sextracted
+[1A[1M> Line:  300  Objects:      130 detected /        0 sextracted
+[1A[1M> Line:  325  Objects:      140 detected /        0 sextracted
+[1A[1M> Line:  350  Objects:      150 detected /        0 sextracted
+[1A[1M> Line:  375  Objects:      162 detected /        0 sextracted
+[1A[1M> Line:  400  Objects:      169 detected /        0 sextracted
+[1A[1M> Line:  425  Objects:      184 detected /        0 sextracted
+[1A[1M> Line:  450  Objects:      203 detected /        0 sextracted
+[1A[1M> Line:  475  Objects:      213 detected /        0 sextracted
+[1A[1M> Line:  500  Objects:      224 detected /        0 sextracted
+[1A[1M> Line:  525  Objects:      235 detected /        0 sextracted
+[1A[1M> Line:  550  Objects:      247 detected /        0 sextracted
+[1A[1M> Line:  575  Objects:      260 detected /        0 sextracted
+[1A[1M> Line:  600  Objects:      273 detected /        0 sextracted
+[1A[1M> Line:  625  Objects:      289 detected /        0 sextracted
+[1A[1M> Line:  650  Objects:      298 detected /        0 sextracted
+[1A[1M> Line:  675  Objects:      306 detected /        0 sextracted
+[1A[1M> Line:  700  Objects:      320 detected /        0 sextracted
+[1A[1M> Line:  725  Objects:      330 detected /        0 sextracted
+[1A[1M> Line:  750  Objects:      339 detected /        0 sextracted
+[1A[1M> Line:  775  Objects:      349 detected /        0 sextracted
+[1A[1M> Line:  800  Objects:      359 detected /        0 sextracted
+[1A[1M> Line:  825  Objects:      376 detected /        0 sextracted
+[1A[1M> Line:  850  Objects:      397 detected /        0 sextracted
+[1A[1M> Line:  875  Objects:      415 detected /        0 sextracted
+[1A[1M> Line:  900  Objects:      429 detected /        0 sextracted
+[1A[1M> Line:  925  Objects:      443 detected /        0 sextracted
+[1A[1M> Line:  950  Objects:      458 detected /        0 sextracted
+[1A[1M> Line:  975  Objects:      475 detected /        0 sextracted
+[1A[1M> Line: 1000  Objects:      491 detected /        0 sextracted
+[1A[1M> Line: 1022  Objects:      503 detected /        0 sextracted
+[1A[1M> Line: 1025  Objects:      504 detected /        8 sextracted
+[1A[1M> Line: 1050  Objects:      523 detected /       22 sextracted
+[1A[1M> Line: 1075  Objects:      539 detected /       34 sextracted
+[1A[1M> Line: 1100  Objects:      551 detected /       44 sextracted
+[1A[1M> Line: 1125  Objects:      570 detected /       51 sextracted
+[1A[1M> Line: 1150  Objects:      581 detected /       60 sextracted
+[1A[1M> Line: 1175  Objects:      586 detected /       65 sextracted
+[1A[1M> Line: 1200  Objects:      596 detected /       78 sextracted
+[1A[1M> Line: 1225  Objects:      606 detected /       90 sextracted
+[1A[1M> Line: 1250  Objects:      626 detected /      102 sextracted
+[1A[1M> Line: 1275  Objects:      643 detected /      113 sextracted
+[1A[1M> Line: 1300  Objects:      659 detected /      122 sextracted
+[1A[1M> Line: 1325  Objects:      671 detected /      133 sextracted
+[1A[1M> Line: 1350  Objects:      680 detected /      144 sextracted
+[1A[1M> Line: 1375  Objects:      695 detected /      155 sextracted
+[1A[1M> Line: 1400  Objects:      709 detected /      166 sextracted
+[1A[1M> Line: 1425  Objects:      720 detected /      181 sextracted
+[1A[1M> Line: 1450  Objects:      728 detected /      191 sextracted
+[1A[1M> Line: 1475  Objects:      745 detected /      201 sextracted
+[1A[1M> Line: 1500  Objects:      759 detected /      211 sextracted
+[1A[1M> Line: 1525  Objects:      771 detected /      222 sextracted
+[1A[1M> Line: 1550  Objects:      781 detected /      232 sextracted
+[1A[1M> Line: 1575  Objects:      795 detected /      244 sextracted
+[1A[1M> Line: 1600  Objects:      807 detected /      255 sextracted
+[1A[1M> Line: 1625  Objects:      814 detected /      267 sextracted
+[1A[1M> Line: 1650  Objects:      821 detected /      274 sextracted
+[1A[1M> Line: 1675  Objects:      823 detected /      287 sextracted
+[1A[1M> Line: 1700  Objects:      841 detected /      295 sextracted
+[1A
+> WARNING: Pixel stack overflow at position 87,1703
+
+[1M> Line: 1725  Objects:      856 detected /      306 sextracted
+[1A[1M> Line: 1750  Objects:      872 detected /      317 sextracted
+[1A[1M> Line: 1775  Objects:      884 detected /      323 sextracted
+[1A[1M> Line: 1800  Objects:      899 detected /      339 sextracted
+[1A[1M> Line: 1825  Objects:      912 detected /      357 sextracted
+[1A[1M> Line: 1850  Objects:      922 detected /      374 sextracted
+[1A[1M> Line: 1875  Objects:      935 detected /      384 sextracted
+[1A[1M> Line: 1899  Objects:      944 detected /      400 sextracted
+[1A[1M> Line: 1900  Objects:      944 detected /      401 sextracted
+[1A[1M> Line: 1925  Objects:      949 detected /      413 sextracted
+[1A[1M> Line: 1950  Objects:      961 detected /      427 sextracted
+[1A[1M> Line: 1975  Objects:      975 detected /      440 sextracted
+[1A[1M> Line: 2000  Objects:      995 detected /      459 sextracted
+[1A[1M> Line: 2025  Objects:     1007 detected /      475 sextracted
+[1A[1M> Line: 2050  Objects:     1020 detected /      488 sextracted
+[1A[1M> Line: 2075  Objects:     1033 detected /      501 sextracted
+[1A[1M> Line: 2100  Objects:     1051 detected /      512 sextracted
+[1A[1M> Line: 2125  Objects:     1073 detected /      524 sextracted
+[1A[1M> Line: 2150  Objects:     1083 detected /      527 sextracted
+[1A[1M> Line: 2175  Objects:     1099 detected /      535 sextracted
+[1A[1M> Line: 2200  Objects:     1109 detected /      541 sextracted
+[1A[1M> Line: 2225  Objects:     1121 detected /      559 sextracted
+[1A[1M> Line: 2250  Objects:     1135 detected /      577 sextracted
+[1A
+> WARNING: Pixel stack overflow at position 2028,2264
+
+[1M> Line: 2275  Objects:     1146 detected /      593 sextracted
+[1A[1M> Line: 2300  Objects:     1156 detected /      604 sextracted
+[1A[1M> Line: 2325  Objects:     1170 detected /      612 sextracted
+[1A[1M> Line: 2350  Objects:     1184 detected /      629 sextracted
+[1A[1M> Line: 2375  Objects:     1194 detected /      640 sextracted
+[1A[1M> Line: 2400  Objects:     1201 detected /      652 sextracted
+[1A[1M> Line: 2425  Objects:     1208 detected /      663 sextracted
+[1A[1M> Line: 2450  Objects:     1215 detected /      676 sextracted
+[1A[1M> Line: 2475  Objects:     1225 detected /      689 sextracted
+[1A[1M> Line: 2500  Objects:     1232 detected /      699 sextracted
+[1A[1M> Line: 2525  Objects:     1247 detected /      707 sextracted
+[1A[1M> Line: 2550  Objects:     1259 detected /      716 sextracted
+[1A[1M> Line: 2575  Objects:     1266 detected /      726 sextracted
+[1A[1M> Line: 2600  Objects:     1275 detected /      733 sextracted
+[1A[1M> Line: 2625  Objects:     1279 detected /      737 sextracted
+[1A[1M> Line: 2650  Objects:     1285 detected /      740 sextracted
+[1A[1M> Line: 2675  Objects:     1307 detected /      754 sextracted
+[1A[1M> Line: 2700  Objects:     1315 detected /      765 sextracted
+[1A[1M> Line: 2725  Objects:     1330 detected /      781 sextracted
+[1A[1M> Line: 2750  Objects:     1337 detected /      789 sextracted
+[1A[1M> Line: 2762  Objects:     1344 detected /      800 sextracted
+[1A[1M> Line: 2775  Objects:     1347 detected /      810 sextracted
+[1A[1M> Line: 2800  Objects:     1357 detected /      821 sextracted
+[1A[1M> Line: 2825  Objects:     1366 detected /      827 sextracted
+[1A[1M> Line: 2850  Objects:     1375 detected /      837 sextracted
+[1A[1M> Line: 2875  Objects:     1380 detected /      846 sextracted
+[1A[1M> Line: 2900  Objects:     1393 detected /      851 sextracted
+[1A[1M> Line: 2925  Objects:     1411 detected /      863 sextracted
+[1A[1M> Line: 2950  Objects:     1421 detected /      870 sextracted
+[1A[1M> Line: 2975  Objects:     1437 detected /      886 sextracted
+[1A[1M> Line: 3000  Objects:     1451 detected /      901 sextracted
+[1A
+> WARNING: Pixel stack overflow at position 2019,3009
+
+[1M> Line: 3025  Objects:     1462 detected /      914 sextracted
+[1A[1M> Line: 3050  Objects:     1478 detected /      928 sextracted
+[1A[1M> Line: 3075  Objects:     1495 detected /      940 sextracted
+[1A[1M> Line: 3100  Objects:     1505 detected /      962 sextracted
+[1A[1M> Line: 3125  Objects:     1513 detected /      974 sextracted
+[1A[1M> Line: 3150  Objects:     1522 detected /      983 sextracted
+[1A[1M> Line: 3175  Objects:     1531 detected /      996 sextracted
+[1A[1M> Line: 3200  Objects:     1555 detected /     1004 sextracted
+[1A[1M> Line: 3225  Objects:     1563 detected /     1019 sextracted
+[1A[1M> Line: 3250  Objects:     1576 detected /     1025 sextracted
+[1A[1M> Line: 3275  Objects:     1587 detected /     1041 sextracted
+[1A[1M> Line: 3300  Objects:     1602 detected /     1051 sextracted
+[1A[1M> Line: 3325  Objects:     1617 detected /     1068 sextracted
+[1A[1M> Line: 3350  Objects:     1627 detected /     1078 sextracted
+[1A[1M> Line: 3375  Objects:     1638 detected /     1088 sextracted
+[1A[1M> Line: 3400  Objects:     1648 detected /     1094 sextracted
+[1A[1M> Line: 3425  Objects:     1658 detected /     1099 sextracted
+[1A[1M> Line: 3450  Objects:     1678 detected /     1106 sextracted
+[1A[1M> Line: 3475  Objects:     1691 detected /     1113 sextracted
+[1A[1M> Line: 3500  Objects:     1712 detected /     1123 sextracted
+[1A
+> WARNING: Pixel stack overflow at position 2107,3519
+
+[1M> Line: 3525  Objects:     1727 detected /     1134 sextracted
+[1A[1M> Line: 3550  Objects:     1749 detected /     1143 sextracted
+[1A[1M> Line: 3575  Objects:     1764 detected /     1148 sextracted
+[1A[1M> Line: 3600  Objects:     1778 detected /     1158 sextracted
+[1A[1M> Line: 3625  Objects:     1793 detected /     1162 sextracted
+[1A[1M> Line: 3650  Objects:     1803 detected /     1173 sextracted
+[1A[1M> Line: 3675  Objects:     1823 detected /     1187 sextracted
+[1A[1M> Line: 3700  Objects:     1829 detected /     1200 sextracted
+[1A[1M> Line: 3702  Objects:     1829 detected /     1200 sextracted
+[1A[1M> Line: 3725  Objects:     1832 detected /     1208 sextracted
+[1A[1M> Line: 3750  Objects:     1842 detected /     1215 sextracted
+[1A[1M> Line: 3775  Objects:     1862 detected /     1222 sextracted
+[1A[1M> Line: 3800  Objects:     1874 detected /     1231 sextracted
+[1A[1M> Line: 3825  Objects:     1896 detected /     1238 sextracted
+[1A[1M> Line: 3850  Objects:     1911 detected /     1245 sextracted
+[1A[1M> Line: 3875  Objects:     1926 detected /     1248 sextracted
+[1A[1M> Line: 3900  Objects:     1944 detected /     1260 sextracted
+[1A[1M> Line: 3925  Objects:     1951 detected /     1274 sextracted
+[1A[1M> Line: 3950  Objects:     1965 detected /     1285 sextracted
+[1A[1M> Line: 3975  Objects:     1978 detected /     1296 sextracted
+[1A[1M> Line: 4000  Objects:     1985 detected /     1311 sextracted
+[1A[1M> Line: 4025  Objects:     1995 detected /     1326 sextracted
+[1A[1M> Line: 4050  Objects:     2014 detected /     1345 sextracted
+[1A[1M> Line: 4075  Objects:     2025 detected /     1351 sextracted
+[1A[1M> Line: 4100  Objects:     2038 detected /     1361 sextracted
+[1A
+> WARNING: Pixel stack overflow at position 38,4103
+
+[1M> Line: 4125  Objects:     2050 detected /     1368 sextracted
+[1A[1M> Line: 4150  Objects:     2060 detected /     1377 sextracted
+[1A[1M> Line: 4175  Objects:     2070 detected /     1397 sextracted
+[1A[1M> Line: 4200  Objects:     2088 detected /     1404 sextracted
+[1A[1M> Line: 4225  Objects:     2102 detected /     1415 sextracted
+[1A[1M> Line: 4250  Objects:     2122 detected /     1426 sextracted
+[1A[1M> Line: 4275  Objects:     2135 detected /     1437 sextracted
+[1A[1M> Line: 4300  Objects:     2141 detected /     1455 sextracted
+[1A[1M> Line: 4325  Objects:     2158 detected /     1468 sextracted
+[1A[1M> Line: 4350  Objects:     2182 detected /     1475 sextracted
+[1A[1M> Line: 4375  Objects:     2195 detected /     1486 sextracted
+[1A[1M> Line: 4400  Objects:     2209 detected /     1495 sextracted
+[1A[1M> Line: 4425  Objects:     2224 detected /     1508 sextracted
+[1A[1M> Line: 4450  Objects:     2233 detected /     1522 sextracted
+[1A[1M> Line: 4475  Objects:     2248 detected /     1538 sextracted
+[1A[1M> Line: 4500  Objects:     2275 detected /     1555 sextracted
+[1A[1M> Line: 4525  Objects:     2300 detected /     1574 sextracted
+[1A[1M> Line: 4550  Objects:     2301 detected /     1592 sextracted
+[1A[1M> Line: 4562  Objects:     2306 detected /     1600 sextracted
+[1A[1M> Line: 4575  Objects:     2307 detected /     1604 sextracted
+[1A[1M> Line: 4600  Objects:     2307 detected /     1617 sextracted
+[1A[1M> Line: 4625  Objects:     2309 detected /     1623 sextracted
+[1A      Objects: detected 2312     / sextracted 1967            
+
+[1M> Closing files
+[1A[1M> 
+[1A> All done (in 0.5 s: 8569.5 lines/s , 3629.7 detections/s)
